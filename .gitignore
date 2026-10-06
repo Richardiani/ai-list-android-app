@@ -1,0 +1,30 @@
+# Gradle files
+.gradle/
+build/
+.gradletasknamecache
+
+# Android Studio
+.idea/
+*.iml
+*.apk
+*.aar
+*.ap_
+*.aab
+*.zip
+*.tar.gz
+*.rar
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+.DS_Store
+
+# Android Studio History (Obsolete)
+.history
+.settings
+
+# Keystore files
+*.jks
+*.keystore

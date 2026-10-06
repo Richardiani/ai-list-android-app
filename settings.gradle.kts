@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AIListApp"
+rootProject.name = "ToDo-RicH"
 include(":app")
